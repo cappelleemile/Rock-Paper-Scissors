@@ -3,8 +3,7 @@
 ### Description:
 A simple Rock-Paper-Scissors game written in Bash. Play against the computer in the terminal and test your luck!
 
-### Features:
-✔️ Choose rock, paper, or scissors and see who wins!  
+### Features: 
 ✔️ The computer makes a random move each round.  
 ✔️ All possible outcomes are correctly handled.  
 ✔️ Only valid choices are accepted.  
@@ -21,7 +20,7 @@ A simple Rock-Paper-Scissors game written in Bash. Play against the computer in 
    ```bash
    sh rps.sh
    ```  
-3. Enter an IP or domain and view the results!
+3. Choose rock, paper, or scissors and see who wins!
 
 ### Contributing
 Want to contribute? Feel free to open an issue or submit a pull request.
