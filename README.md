@@ -19,7 +19,7 @@ A simple Rock-Paper-Scissors game written in Bash. Play against the computer in 
    ```  
 2. Run the script:  
    ```bash
-   python rps.sh
+   sh rps.sh
    ```  
 3. Enter an IP or domain and view the results!
 
