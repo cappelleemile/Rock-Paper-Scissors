@@ -4,11 +4,11 @@
 A simple Rock-Paper-Scissors game written in Bash. Play against the computer in the terminal and test your luck!
 
 ### Features:
-✔️ Choose rock, paper, or scissors and see who wins!
-✔️ The computer makes a random move each round.
-✔️ All possible outcomes are correctly handled.
-✔️ Only valid choices are accepted.
-✔️ Runs instantly in any Bash terminal.
+✔️ Choose rock, paper, or scissors and see who wins!  
+✔️ The computer makes a random move each round.  
+✔️ All possible outcomes are correctly handled.  
+✔️ Only valid choices are accepted.  
+✔️ Runs instantly in any Bash terminal.  
 
 
 ### How to use:
